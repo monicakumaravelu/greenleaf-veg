@@ -1,8 +1,8 @@
-#GreenLeaf Veg – Online Food Ordering & Table Reservation System
+# GreenLeaf Veg – Online Food Ordering & Table Reservation System
 GreenLeaf Veg is a full-stack web application designed for vegetarian restaurants to manage online food ordering, table reservations, and administration of orders & bookings — all in one streamlined system.
 The project focuses on modern UI/UX, performance, and real-world business workflows such as order management, menu browsing, cart system, and backend reservation validation.
 
-#Features
+# Features
 For Customers (Frontend)
 
 - Browse a fully categorized menu (Starters, Main Course, Beverages, Desserts, etc.)
@@ -19,7 +19,7 @@ For Customers (Frontend)
 Validations: phone, future date (max 30 days), restaurant timings
 ✔ Beautiful success pages for both orders and reservations
 
- Backend Functionality
+ # Backend Functionality
 
 -  Store orders and ordered items in database
 - Store reservation details with business-logic validations
@@ -37,7 +37,7 @@ Server: Embedded Tomcat
 Tools Used:  Eclipse IDE, MySQL Workbench
 Version Control: Git / GitHub
 
-#Project Highlights
+# Project Highlights
 
 - Modern and aesthetic UI resembling premium restaurant web design
 - Fully responsive CSS with mobile-first behavior
