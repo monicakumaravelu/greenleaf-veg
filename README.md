@@ -29,13 +29,13 @@ Validations: phone, future date (max 30 days), restaurant timings
 
 # Tech Stack Used
 
-Frontend: HTML5, CSS3, JavaScript (Vanilla), Fetch API
-Backend:	Spring Boot (Spring Web, Spring MVC, Spring Data JPA)
-Database:	MySQL
-Build Tool:	Maven
-Server: Embedded Tomcat
-Tools Used:  Eclipse IDE, MySQL Workbench
-Version Control: Git / GitHub
+- Frontend: HTML5, CSS3, JavaScript (Vanilla), Fetch API
+- Backend:	Spring Boot (Spring Web, Spring MVC, Spring Data JPA)
+- Database:	MySQL
+- Build Tool:	Maven
+- Server: Embedded Tomcat
+- Tools Used:  Eclipse IDE, MySQL Workbench
+- Version Control: Git / GitHub
 
 # Project Highlights
 
